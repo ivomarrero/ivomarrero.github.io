@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ccad148.chunk.css",
-    "main.js": "/static/js/main.c72427fb.chunk.js",
-    "main.js.map": "/static/js/main.c72427fb.chunk.js.map",
+    "main.css": "/static/css/main.abad53d1.chunk.css",
+    "main.js": "/static/js/main.984101df.chunk.js",
+    "main.js.map": "/static/js/main.984101df.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.68ea11d8.js",
     "runtime-main.js.map": "/static/js/runtime-main.68ea11d8.js.map",
-    "static/js/2.7a63b43f.chunk.js": "/static/js/2.7a63b43f.chunk.js",
-    "static/js/2.7a63b43f.chunk.js.map": "/static/js/2.7a63b43f.chunk.js.map",
+    "static/js/2.84f80838.chunk.js": "/static/js/2.84f80838.chunk.js",
+    "static/js/2.84f80838.chunk.js.map": "/static/js/2.84f80838.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9de920551f8bda33131beed33176a4a6.js": "/precache-manifest.9de920551f8bda33131beed33176a4a6.js",
+    "precache-manifest.5182bd0368c3d176c7d973daf864d3eb.js": "/precache-manifest.5182bd0368c3d176c7d973daf864d3eb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1ccad148.chunk.css.map": "/static/css/main.1ccad148.chunk.css.map",
+    "static/css/main.abad53d1.chunk.css.map": "/static/css/main.abad53d1.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Ivo-1.jpg": "/static/media/Ivo-1.b11be6f8.jpg",
     "static/media/Lancaster-Uni.png": "/static/media/Lancaster-Uni.a0b864da.png",
@@ -20,6 +20,7 @@
     "static/media/blogs_image.svg": "/static/media/blogs_image.b6b12c7d.svg",
     "static/media/bots.svg": "/static/media/bots.db3fec41.svg",
     "static/media/bsgc_logo.svg": "/static/media/bsgc_logo.30dc22cd.svg",
+    "static/media/btc-man.png": "/static/media/btc-man.e5e8c79c.png",
     "static/media/canary.jpeg": "/static/media/canary.f03be08e.jpeg",
     "static/media/cfa.png": "/static/media/cfa.b41de31e.png",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.dfcb7a58.svg",
@@ -41,7 +42,9 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
+    "static/media/ivo-nft-big.png": "/static/media/ivo-nft-big.d105a5dc.png",
     "static/media/jb.png": "/static/media/jb.f48e4c94.png",
+    "static/media/jp.png": "/static/media/jp.528b4bef.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/lancasteruni.png": "/static/media/lancasteruni.2fed46b4.png",
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
@@ -81,8 +84,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.68ea11d8.js",
-    "static/js/2.7a63b43f.chunk.js",
-    "static/css/main.1ccad148.chunk.css",
-    "static/js/main.c72427fb.chunk.js"
+    "static/js/2.84f80838.chunk.js",
+    "static/css/main.abad53d1.chunk.css",
+    "static/js/main.984101df.chunk.js"
   ]
 }

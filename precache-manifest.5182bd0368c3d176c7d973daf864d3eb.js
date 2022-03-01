@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c7076bf84896d4c5ff801b441588c94",
+    "revision": "3137fc1979fe77e45169e2a4edb3f107",
     "url": "/index.html"
   },
   {
-    "revision": "4c220df63ef962282d95",
-    "url": "/static/css/main.1ccad148.chunk.css"
+    "revision": "6f8118ed3bbd8b5fee17",
+    "url": "/static/css/main.abad53d1.chunk.css"
   },
   {
-    "revision": "89b812d34131c34f803d",
-    "url": "/static/js/2.7a63b43f.chunk.js"
+    "revision": "20c3a602f5defcea8355",
+    "url": "/static/js/2.84f80838.chunk.js"
   },
   {
-    "revision": "4c220df63ef962282d95",
-    "url": "/static/js/main.c72427fb.chunk.js"
+    "revision": "6f8118ed3bbd8b5fee17",
+    "url": "/static/js/main.984101df.chunk.js"
   },
   {
     "revision": "0d5095c014e4f455a61d",
@@ -82,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "30dc22cd7357b5d7d1e4027d35a15ce9",
     "url": "/static/media/bsgc_logo.30dc22cd.svg"
+  },
+  {
+    "revision": "e5e8c79c88d9146fd8f0a7fe645ab7d3",
+    "url": "/static/media/btc-man.e5e8c79c.png"
   },
   {
     "revision": "f03be08e818b59b6c936ada6249c324a",
@@ -224,8 +228,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/intel_logo.29152cf7.jpg"
   },
   {
+    "revision": "d105a5dc60d2cebf428b5a92bfbf93c0",
+    "url": "/static/media/ivo-nft-big.d105a5dc.png"
+  },
+  {
     "revision": "f48e4c94d07fbd1b4cacc594d0fba257",
     "url": "/static/media/jb.f48e4c94.png"
+  },
+  {
+    "revision": "528b4bef2f8fe38a9986080c43a12615",
+    "url": "/static/media/jp.528b4bef.png"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3137fc1979fe77e45169e2a4edb3f107",
+    "revision": "5ce7cc48f6c7c81cc6d078da5c51d2df",
     "url": "/index.html"
   },
   {
-    "revision": "6f8118ed3bbd8b5fee17",
-    "url": "/static/css/main.abad53d1.chunk.css"
+    "revision": "f49b22dd10070f4e82fd",
+    "url": "/static/css/main.83d64c4e.chunk.css"
   },
   {
-    "revision": "20c3a602f5defcea8355",
-    "url": "/static/js/2.84f80838.chunk.js"
+    "revision": "8d5a55377cee0d7d2f2e",
+    "url": "/static/js/2.c16ef252.chunk.js"
   },
   {
-    "revision": "6f8118ed3bbd8b5fee17",
-    "url": "/static/js/main.984101df.chunk.js"
+    "revision": "f49b22dd10070f4e82fd",
+    "url": "/static/js/main.eed612e9.chunk.js"
   },
   {
     "revision": "0d5095c014e4f455a61d",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "db21e31d79053ebaa89827c388d7f042",
+    "url": "/static/media/Entrepreneurship .db21e31d.svg"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -58,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "30bca68caa6283acdf999af17f564471",
+    "url": "/static/media/Predictive analysis.30bca68c.svg"
   },
   {
     "revision": "3b021f8ffcf9f323ea72abc28382e234",
